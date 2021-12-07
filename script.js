@@ -1,1 +1,1 @@
-const panels = document.querySelectorAll(.panel);
+const panels = document.querySelectorAll(".panel");
